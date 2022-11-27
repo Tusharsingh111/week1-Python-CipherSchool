@@ -3,13 +3,13 @@
 
 i = 1
 while i<=10:
-    print("sumit is smart boy")
+    print("Nishant is smart boy")
     i = i + 1
 
 
 i = 1
 while i<=10:
-    print(f"sumit is smart boy{i}")
+    print(f"Nishant is smart boy{i}")
     i = i + 1
 
 
