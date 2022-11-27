@@ -1,4 +1,4 @@
-name = "Sunny Saini"
+name = "Tushar"
 print(len(name))
 print(name.lower())
 print(name.upper())
