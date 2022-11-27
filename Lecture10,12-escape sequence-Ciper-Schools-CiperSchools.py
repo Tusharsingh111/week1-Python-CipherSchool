@@ -1,0 +1,5 @@
+print("hello\"world\world")
+print("line a\nline b")
+print("name\tSunny")
+print("this is a backlash\\")
+print("this is a double backlash\\\\")
